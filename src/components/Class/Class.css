@@ -1,0 +1,11 @@
+
+.class {
+    width: 100px;
+    height: 100px;
+    font-family: Cursive;
+    background-color: rgb(185, 226, 226);
+    margin: auto;
+    height: 10%;
+    border: 3px solid rgb(62, 30, 202);
+    padding: 10px;
+}
