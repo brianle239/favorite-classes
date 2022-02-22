@@ -1,11 +1,19 @@
 
 .class {
-    width: 100px;
+    width: 500px;
     height: 100px;
     font-family: Cursive;
     background-color: rgb(185, 226, 226);
     margin: auto;
     height: 10%;
-    border: 3px solid rgb(62, 30, 202);
+    border: 3px solid rgb(51, 198, 218);
     padding: 10px;
+    font-size: large;
+    font-weight: 100;
+    
+    
+}
+
+.info {
+    font-size: small;
 }
